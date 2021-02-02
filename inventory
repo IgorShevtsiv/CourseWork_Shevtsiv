@@ -1,0 +1,5 @@
+[couseWork]
+18.222.238.192 ansible_connection=ssh ansible_ssh_user=ubuntu ansible_ssh_private_key_file=./course_ISD.pem
+
+[couseWork:vars]
+ansible_python_interpreter=/usr/bin/python3
